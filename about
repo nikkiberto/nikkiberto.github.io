@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<head>
+        <title>nikki berto</title>
+        <style>
+          body {
+        background-color: black;
+      }
+          body {
+            font-size: 100%;
+            color: white;
+            font-family: avenir;
+            margin-top: 100px;
+            margin-right: 100px;
+            margin-left: 100px;
+            background-attachment: fixed;
+            text-align: center;
+          }
+          p {
+            font-size: 1.2em;
+            color: white;
+            text-decoration: underline;
+            text-decoration-color: #ED6A5E;
+          }
+          h {
+            font-size: 4em;
+            text-align: center;
+            color: #3f8f67;
+          }
+          a:link {
+            font-style: none;
+            color: rgb(0, 179, 134);
+            text-decoration: none;
+          }
+          a:visited {
+            font-style: none;
+            color: rgb(0, 179, 134);
+            text-decoration: none;
+          }
+          a:hover {
+            color: rgb(255, 204, 0);
+      }
+      
+          div {
+            margin-top: -20px;
+            text-align: center;
+          }
+          h2 {
+        text-align: center;
+        font-size: 1.4em;
+        color: rgb(0, 179, 134);
+        text-decoration: none;
+      }
+      p2 {
+        text-align: center;
+        font-family: avenir;
+        font-size: 1em;
+        color: white;
+        text-decoration: light;
+      }
+      button {
+          background-color: black;
+          color: white;
+          border: 2px solid #3f8f67;
+          font-family: avenir;
+          font-size: 170%;
+          padding: 20px;
+          margin: 10px;
+      }
+      div {
+          text-align: left;
+          width: 300px;
+          position: relative;
+          display: inline-block;
+      }
+      
+        </style>
+      </head>
+      
+      <body>
+      <body background="" min-width="700px">
+      
+      <h><b>who's that</b></h>
+        <p>a recent addition to advertising.</p>
+      <br><br>
+      <div><p2>
+        you've seen the work.<br>
+        (unless you haven't seen the work<br>
+        — <a href="http://nikkiberto.com/work">please go and look at the work</a>.)<br>
+        but what else do you get?<br><br>
+        a very human person.<br>
+        a shameful dedication to portmanteaus.<br>
+        the right attitude — mostly.<br>
+        (sometimes it rains unexpectedly when i'm riding my bike.)</p2>
+      </div>
+      </body>
